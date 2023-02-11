@@ -5,8 +5,8 @@ Hey there! I'm Shahar
 A Backend Software Engineer
 <p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=10&hide=kotlin,makefile"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=10&hide=kotlin,makefile&custom_title=Languages-Incl-Archived">
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats">
 <p>
-![](https://komarev.com/ghpvc/?username=shahart)
+<img src="https://komarev.com/ghpvc/?username=shahart"> 
