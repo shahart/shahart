@@ -7,6 +7,6 @@ A Backend Software Engineer
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=10&hide=kotlin,makefile,css&custom_title=Languages-Incl-Archived">
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true">
 <p>
 <img src="https://komarev.com/ghpvc/?username=shahart"> 
