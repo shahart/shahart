@@ -10,3 +10,13 @@ A Backend Software Engineer
 <img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true">
 <p>
 <img src="https://komarev.com/ghpvc/?username=shahart&abbreviated=true"> 
+<p>
+Some static pages:
+<p>
+<a href="https://shahart.github.io/puzzles-edu/">Thesis demo</a>
+</br>
+<a href="https://shahart.github.io/heb-bible/">Bible</a>
+</br>
+<a href="https://shahart.github.io/hebTx/">Eng > Heb 'keyboard' for Mobiles</a>
+</br>
+and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
