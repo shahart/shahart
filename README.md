@@ -19,4 +19,8 @@ Some static pages:
 </br>
 <a href="https://shahart.github.io/hebTx/">Eng > Heb 'keyboard' for Mobiles</a>
 </br>
+<a href="https://shahart.github.io/gematria-intellij-plugin/">Plugin for Gematria</a>
+</br>
+<a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a>
+</br>
 and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
