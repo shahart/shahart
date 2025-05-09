@@ -23,4 +23,6 @@ Some static/ pointer pages:
 </br>
 <a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a>
 </br>
+<a href="https://shahart.github.io/ping-me/">iWatch Ping Me</a>
+</br>
 and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
