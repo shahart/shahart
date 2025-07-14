@@ -27,4 +27,6 @@ Some static/ pointer pages:
 </br>
 <a href="https://shahart.github.io/ping-me/emojies.html">Emoji dictionary</a>
 </br>
+<a href="https://shahart.github.io/automations">Auto listen to radio news</a>
+</br>
 and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
