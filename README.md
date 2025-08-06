@@ -9,6 +9,9 @@ A Backend Software Engineer
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true">
 <p>
+
+If you got '_Something went wrong_', click [here](https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=false&show=reviews&hide_rank=true) to see the commits only from the current year.
+<p>
 <img src="https://komarev.com/ghpvc/?username=shahart&abbreviated=true"> 
 <p>
 Some static/ pointer pages:
@@ -27,6 +30,6 @@ Some static/ pointer pages:
 </br>
 <a href="https://shahart.github.io/ping-me/emojies.html">Emoji dictionary</a>
 </br>
-<a href="https://shahart.github.io/automations">Auto listen to radio news</a>
+<a href="https://shahart.github.io/automations">Android App - Auto listen to radio news</a>
 </br>
 and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
