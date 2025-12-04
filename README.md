@@ -21,8 +21,8 @@ Real expertise is not reflected here.
 <p>
 Languages incl Archived<br/><br/>
 <!--img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true"-->
-<!--img src="./top-langs.jpg"-->
-![](top-langs.jpg)
+<img src="./top-langs.jpg">
+<!-- ![](top-langs.jpg) -->
 <p>
 <!--If you got '_Something went wrong_', click [here](https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=false&show=reviews&hide_rank=true) to see the commits only from the current year.-->
 <p>
