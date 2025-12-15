@@ -8,10 +8,11 @@ A Backend Software Engineer
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived"-->
 <!--img src="./stats.jpg"-->
 <!-- ![](stats.jpg) -->
-    Stats: <br/>
+    Stats (a static snapshot from <a href="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&include_all_commits=true&show=reviews&hide_rank=true">here</a>)
+
 
     ✨ Total Stars Earned: 10 
-    🕒 Total commits (last year): 230
+    🕒 Total commits (last year): 235
     Total PRs: 2
     Total issues: 43
 
@@ -19,7 +20,7 @@ A Backend Software Engineer
 <br/>
 Real expertise is not reflected here.
 <p>
-Languages incl Archived<br/><br/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived">Languages incl Archived</a><br/><br/>
 <!--img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true"-->
 <img src="./top-langs.jpg">
 <!-- ![](top-langs.jpg) -->
