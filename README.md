@@ -11,10 +11,10 @@ A Backend Software Engineer
     Stats (a static snapshot from <a href="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&include_all_commits=true&show=reviews&hide_rank=true">here</a>)
 
 
-    ✨ Total Stars Earned: 10 
-    🕒 Total commits (last year): 235
-    Total PRs: 2
-    Total issues: 43
+-  ✨ Total Stars Earned: 10 
+-  🕒 Total commits: 519
+-  Total PRs: 2
+-  Total issues: 43
 
 ^^ That's of course just a metric from the public code.
 <br/>
