@@ -12,9 +12,9 @@ A Backend Software Engineer
 
 
 -  ✨ Total Stars Earned: 10 
--  🕒 Total commits: 519
+-  🕒 Total commits: 582
 -  Total PRs: 2
--  Total issues: 43
+-  Total issues: 45
 
 ^^ That's of course just a metric from the public code.
 <br/>
@@ -22,7 +22,7 @@ Real expertise is not reflected here.
 <p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived">Languages incl Archived</a><br/><br/>
 <!--img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true"-->
-<img src="./top-langs.jpg">
+<img src="./top-langs.svg">
 <!-- ![](top-langs.jpg) -->
 <p>
 <!--If you got '_Something went wrong_', click [here](https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=false&show=reviews&hide_rank=true) to see the commits only from the current year.-->
@@ -40,6 +40,8 @@ Some static/ pointer pages:
 <a href="https://shahart.github.io/ping-me/">iWatch Ping Me</a>
 </br>
 <a href="https://shahart.github.io/ping-me/emojies.html">Emoji dictionary</a>
+</br>
+<a href="https://shahart.github.io/near-by/index.html?subject=Ramot">Near-by Chatter</a>
 </br>
 <a href="https://shahart.github.io/hebTx/">Eng > Heb 'keyboard' for Mobiles</a>
 </br>
