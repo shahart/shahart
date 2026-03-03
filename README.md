@@ -8,24 +8,24 @@ A Backend Software Engineer
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived"-->
 <!--img src="./stats.jpg"-->
 <!-- ![](stats.jpg) -->
-    Stats (a static snapshot from <a href="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&include_all_commits=true&show=reviews&hide_rank=true">here</a>)
+    Stats (a static snapshot from <a href="https://github-readme-stats-fast.vercel.app/api?username=shahart&show_icons=true&include_all_commits=true&show=reviews&hide_rank=true">here</a>)
 
 
 -  ✨ Total Stars Earned: 11 
--  🕒 Total commits: 583
+-  🕒 Total commits: 617 <!-- 30 priv repos -->
 -  Total PRs: 2
--  Total issues: 46
+-  Total issues: 53
 
 ^^ That's of course just a metric from the public code.
 <br/>
 Real expertise is not reflected here.
 <p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived">Languages incl Archived</a><br/><br/>
-<!--img src="https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true"-->
+<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shahart&langs_count=30&custom_title=Languages-Incl-Archived&hide=roff,pawn,autohotkey,batchfile,prolog">Languages incl Archived</a><br/><br/>
+<!--img src="https://github-readme-stats-fast.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=true&show=reviews&hide_rank=true&hide=roff,pawn,autohotkey,batchfile,prolog"-->
 <img src="./top-langs.svg">
 <!-- ![](top-langs.jpg) -->
 <p>
-<!--If you got '_Something went wrong_', click [here](https://github-readme-stats.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=false&show=reviews&hide_rank=true) to see the commits only from the current year.-->
+<!--If you got '_Something went wrong_', click [here](https://github-readme-stats-fast.vercel.app/api?username=shahart&show_icons=true&custom_title=Stats&include_all_commits=false&show=reviews&hide_rank=true) to see the commits only from the current year.-->
 <p>
 <img src="https://komarev.com/ghpvc/?username=shahart&abbreviated=true"> 
 <p>
@@ -33,7 +33,7 @@ Some static/ pointer pages:
 <p>
 <a href="https://shahart.github.io/puzzles-edu/">Thesis demo</a>
 </br>
-<a href="https://shahart.github.io/automations">Android App - Auto listen to radio news</a>
+<a href="https://shahart.github.io/myquietwave">Android App - Auto listen to radio news</a>
 </br>
 <a href="https://shahart.github.io/heb-bible/">Bible</a>
 </br>
