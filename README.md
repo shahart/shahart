@@ -11,10 +11,10 @@ A Backend Software Engineer
     Stats (a static snapshot from <a href="https://github-readme-stats-fast.vercel.app/api?username=shahart&show_icons=true&include_all_commits=true&show=reviews&hide_rank=true">here</a>)
 
 
--  ✨ Total Stars Earned: 11 
--  🕒 Total commits: 617 <!-- 30 priv repos -->
+-  ✨ Total Stars Earned: 10 
+-  🕒 Total commits: 643 <!-- 30 priv repos -->
 -  Total PRs: 2
--  Total issues: 53
+-  Total issues: 52
 
 ^^ That's of course just a metric from the public code.
 <br/>
@@ -49,4 +49,4 @@ Some static/ pointer pages:
 </br>
 <a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a>
 </br>
-and <a href="https://www.mobyware.org/palm-os/hitori-and-nurikabe-download-113349.html">Palm Pilot game</a>
+and <a href="https://palmdb.net/app/hitori-nurikabe-japanese">Palm Pilot game</a>
