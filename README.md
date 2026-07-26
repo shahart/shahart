@@ -12,9 +12,9 @@ A Backend Software Engineer
 
 
 -  ✨ Total Stars Earned: 10 
--  🕒 Total commits: 643 <!-- 30 priv repos -->
+-  🕒 Total commits: 739 <!-- 30 priv repos -->
 -  Total PRs: 2
--  Total issues: 52
+-  Total issues: 57
 
 ^^ That's of course just a metric from the public code.
 <br/>
