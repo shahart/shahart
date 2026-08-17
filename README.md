@@ -12,7 +12,7 @@ A Backend Software Engineer
 
 
 -  ✨ Total Stars Earned: 10 
--  🕒 Total commits: 739 <!-- 30 priv repos -->
+-  🕒 Total commits: 789 <!-- 30 priv repos -->
 -  Total PRs: 2
 -  Total issues: 57
 
@@ -34,6 +34,8 @@ Some static/ pointer pages:
 <a href="https://shahart.github.io/puzzles-edu/">Thesis demo</a>
 </br>
 <a href="https://shahart.github.io/myquietwave">Android App - Auto listen to radio news</a>
+</br>
+<a href="https://shahart.github.io/fizz-buzz">Android (and web) Game - 7 Boom, using WebSockets</a>
 </br>
 <a href="https://shahart.github.io/heb-bible/">Bible</a>
 </br>
