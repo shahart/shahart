@@ -12,7 +12,7 @@ A Backend Software Engineer
 
 
 -  ✨ Total Stars Earned: 10 
--  🕒 Total commits: 789 <!-- 30 priv repos -->
+-  🕒 Total commits: 902 <!-- 30 priv repos -->
 -  Total PRs: 2
 -  Total issues: 57
 
@@ -39,6 +39,8 @@ Some static/ pointer pages:
 </br>
 <a href="https://shahart.github.io/heb-bible/">Bible</a>
 </br>
+<a href="https://shahart.github.io/slihot-meshulav/">Slihot</a>
+</br>
 <a href="https://shahart.github.io/ping-me/">iWatch Ping Me</a>
 </br>
 <a href="https://shahart.github.io/ping-me/emojies.html">Emoji dictionary</a>
@@ -51,4 +53,4 @@ Some static/ pointer pages:
 </br>
 <a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a>
 </br>
-and <a href="https://palmdb.net/app/hitori-nurikabe-japanese">Palm Pilot game</a>
+and <a href="https://shahart.github.io/HitoNuri/">My 1st Palm Pilot game</a>
