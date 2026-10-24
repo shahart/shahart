@@ -12,7 +12,7 @@ A Backend Software Engineer
 
 
 -  ✨ Total Stars Earned: 10 
--  🕒 Total commits: 902 <!-- 30 priv repos -->
+-  🕒 Total commits: 910 <!-- 30 priv repos -->
 -  Total PRs: 2
 -  Total issues: 57
 
@@ -51,6 +51,6 @@ Some static/ pointer pages:
 </br>
 <a href="https://shahart.github.io/gematria-intellij-plugin/">Plugin for Gematria (IDE plugin)</a>
 </br>
-<a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a>
+<a href="http://boostapps.com/apps/microcalc/">J2ME's Excel</a> see https://github.com/shahart/micro-calc
 </br>
 and <a href="https://shahart.github.io/HitoNuri/">My 1st Palm Pilot game</a>
